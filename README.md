@@ -15,4 +15,4 @@ The [full documentation](http://nuclide.io/docs) for Nuclide provides informatio
 - [Client Installation](http://nuclide.io/docs/editor/setup) ([Mac](http://nuclide.io/docs/editor/setup/#mac) | [Linux](http://nuclide.io/docs/editor/setup/#linux) | [Windows is not supported](http://nuclide.io/docs/editor/setup/#windows))
 - [Server Installation](http://nuclide.io/docs/editor/setup/#installing-nuclide-server)
 - [Getting Started Feature Walkthrough](http://nuclide.io/docs/quick-start/getting-started/)
-- [Building from Source](http://nuclide.io/docs/advanced-topics/building-from-source/)
+- [Building from Source](https://github.com/stowball/nuclide/blob/master/docs/_docs/advanced-topics/building-from-source.md#building)
